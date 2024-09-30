@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"ventru-tunes","appId":"1:701362343623:android:f4d290a06bd63fd708b8e2","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"ventru-tunes","configurations":{"android":"1:701362343623:android:f4d290a06bd63fd708b8e2","ios":"1:701362343623:ios:2c0347a641969ed308b8e2"}}}}}}
