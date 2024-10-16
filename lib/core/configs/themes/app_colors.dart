@@ -14,5 +14,8 @@ class AppColors {
 
   static const  Color bodyTextColor = Color(0xFF898989);
 
-  static const Color textFieldBackground = Color(0x0A0E0E0E); // 4% opacity
+  static const Color textFieldBackground = Color(0x260E0E0E); // 4% opacity
+
+  static const Color cE0E0E0 = Color(0xFFE0E0E0);
+  static const Color c898989 = Color(0xFF898989);
 }
