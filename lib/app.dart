@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:tunes/presentation/index_screen.dart';
+import 'package:tunes/presentation/widgets/queue-actions/queue-actions_screen.dart';
 
 class TunesApp extends StatelessWidget {
   const TunesApp({super.key});
@@ -15,7 +16,7 @@ class TunesApp extends StatelessWidget {
       // theme: ThemeData.light(
       //   useMaterial3: true,
       // ),
-      home: const IndexScreen(initTab: 1),
+      home: const QueueActionsWidget(),
     );
   }
 }
